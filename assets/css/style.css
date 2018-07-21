@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    color: black;
+}
+.jumbotron {
+    background-image: url("../images/jumboBackground.jpg");
+    height: 100vh;
+    margin-bottom: 0;
+    text-align: center;
+}
+#logoImage {
+    height:10%;
+    width:10%;
+    background-color: black;
+    border: white 1px solid;
+    border-radius: 5px;
+}
+#mainHead {
+    font-weight: bold;
+    font-size: 20vh;
+    text-shadow: black 4px 4px 4px;
+}
+#exploreBtn {
+    background-color: black;
+}
+#exploreBtn:hover {
+    background-color: white;
+    color: black;
+    border: 2px black solid;
+}
+
+.jumboTitle {
+    text-shadow: black 2px 2px;
+    color: white;
+}
+#aboutMeCarousel {
+    height: 90vh;
+}
+#bioPic {
+    border: white 3px solid;
+    border-radius: 5px;
+}
+.carouselCard {
+    background-image: url("../images/abstract-black-and-white-curves-1954\ \(1\).jpg");
+    color: white;
+    height: 90vh;
+    overflow: scroll;
+}
+.iconRow {
+    padding: 13%;
+}
+.iconHeader {
+    text-align: center;
+    font-weight: bold;
+}
+.iconText {
+    text-align: center;
+}
+.iconImg {
+    height: 50px;
+    width: 50px;
+}
+.cardContainer {
+    padding: 13%;
+}
+.portfolioImg {
+    height: 50vh;
+}
+.dropdown {
+    margin-right: 20px;
+}
+#contactDiv {
+    color: white;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+#linkedInLogo {
+    height: 8vh;
+    width:16vw;
+}
+.card-header {
+    background-color: rgb(2, 2, 29);
+    color: white;
+
+}
+.card-header:link {
+    color: white;
+    text-decoration: none;
+}
+
